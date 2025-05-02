@@ -1,0 +1,12 @@
+albert.tabout
+bradlc.vscode-tailwindcss
+chakrounanas.turbo-console-log
+dbaeumer.vscode-eslint
+dsznajder.es7-react-js-snippets
+eamodio.gitlens
+esbenp.prettier-vscode
+github.copilot
+github.copilot-chat
+naumovs.color-highlight
+ritwickdey.liveserver
+rodrigovallades.es7-react-js-snippets
