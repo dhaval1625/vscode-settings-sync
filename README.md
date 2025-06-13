@@ -21,7 +21,7 @@ Easily back up and restore your personal Visual Studio Code setup — including 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vscode-settings-sync.git
+git clone https://github.com/dhaval1625/vscode-settings-sync.git
 cd vscode-settings-sync
 ```
 
